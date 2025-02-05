@@ -1,4 +1,4 @@
-package com.javapackages.shubhadeep.BasicStructurePackages.AdvancedPackages.SwitchStatement;
+package com.javapackages.shubhadeep.BasicStructurePackages.AdvancedPackages.ControlStatementPackages.SwitchStatement;
 
 public class switchstatementconstruction {
     public static void main(String[] args) {

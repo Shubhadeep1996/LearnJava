@@ -1,4 +1,4 @@
-package com.javapackages.shubhadeep.BasicStructurePackages.AdvancedPackages.SwitchStatement.ATMOperation;
+package com.javapackages.shubhadeep.BasicStructurePackages.AdvancedPackages.ControlStatementPackages.SwitchStatement.ATMOperation;
 
 import java.io.Serializable;
 
